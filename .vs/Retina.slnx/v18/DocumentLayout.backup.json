@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\source\\repos\\claude\\Retina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54DDD88E-1929-4A0C-AD8A-7F8720EE0C66}|Retina\\Retina.csproj|c:\\users\\muham\\source\\repos\\claude\\retina\\retina\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DDD88E-1929-4A0C-AD8A-7F8720EE0C66}|Retina\\Retina.csproj|solutionrelative:retina\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\source\\repos\\claude\\Retina\\Retina\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Retina\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\muham\\source\\repos\\claude\\Retina\\Retina\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Retina\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:44:57.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

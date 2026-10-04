@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Retina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c7dcc0b4904ddb4a561f79a7b9ff2119ca58eb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39dc706a888d027e6a509d3501a2ae0f08d7b820")]
 [assembly: System.Reflection.AssemblyProductAttribute("Retina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Retina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

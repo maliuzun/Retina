@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\muham\\source\\repos\\claude\\Retina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54DDD88E-1929-4A0C-AD8A-7F8720EE0C66}|Retina\\Retina.csproj|c:\\users\\muham\\source\\repos\\claude\\retina\\retina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{54DDD88E-1929-4A0C-AD8A-7F8720EE0C66}|Retina\\Retina.csproj|solutionrelative:retina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{079E75F0-D8E4-5CE9-8E51-70A6D9A14076}|Retina\\Retina.csproj|c:\\users\\muham\\source\\repos\\claude\\retina\\retina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{079E75F0-D8E4-5CE9-8E51-70A6D9A14076}|Retina\\Retina.csproj|solutionrelative:retina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54DDD88E-1929-4A0C-AD8A-7F8720EE0C66}|Retina\\Retina.csproj|c:\\users\\muham\\source\\repos\\claude\\retina\\retina\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54DDD88E-1929-4A0C-AD8A-7F8720EE0C66}|Retina\\Retina.csproj|solutionrelative:retina\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{079E75F0-D8E4-5CE9-8E51-70A6D9A14076}|Retina\\Retina.csproj|c:\\users\\muham\\source\\repos\\claude\\retina\\retina\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079E75F0-D8E4-5CE9-8E51-70A6D9A14076}|Retina\\Retina.csproj|solutionrelative:retina\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Retina\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T12:44:57.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T12:44:57.097Z"
             }
           ]
         }
